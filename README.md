@@ -1,2 +1,3 @@
 # Potfolio
-This is my professional portfolio
+This is my professional portfolio 
+Author : Jagadish Potnuru
